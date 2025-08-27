@@ -16,6 +16,13 @@ where allergies is null;
 
 -- Show first name and last name concatinated into one column to show their full name.
   -- here we can use a CONCAT in build function for adding values of two columns in a single columns
+
 SELECT CONCAT
 (first_name,' ',last_name) 
 from patients;
+
+-- Show first name, last name, and the full province name of each patient.
+select first_name,last_name, province_name
+from patients
+join province_names
+on province_names.province_id=patients.province_id;
