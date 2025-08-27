@@ -7,7 +7,6 @@ select first_name , last_name
 from patients 
 where weight  between 100 and 120  
 
-
 --  update allergies column as 'NKA ' where allergies are null 
 
 UPDATE patients
@@ -26,3 +25,27 @@ select first_name,last_name, province_name
 from patients
 join province_names
 on province_names.province_id=patients.province_id;
+
+-- Show how many patients have a birth_date with 2010 as the birth year.
+select count(patient_id)
+from patients
+where year(bith_date)=2010;
+
+select count(*) as total_patients
+from patients 
+where year(birth_date)=2010;
+
+select * 
+from patients 
+where year(birth_date)=2010;
+
+
+-- Show the first_name, last_name, and height of the patient with the greatest height.
+
+select first_name, last_name ,height
+from patients 
+where height=(
+  /*this will return max height*/
+  select max(height)
+  from patients
+)
