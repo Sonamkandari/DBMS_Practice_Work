@@ -41,7 +41,7 @@ where year(birth_date)=2010;
 
 
 -- Show the first_name, last_name, and height of the patient with the greatest height.
-
+-- work as nested loops
 select first_name, last_name ,height
 from patients 
 where height=(
