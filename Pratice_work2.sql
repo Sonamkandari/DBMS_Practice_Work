@@ -109,3 +109,8 @@ select patients.patient_id,first_name,last_name
 from patients
 join admissions
 on admissions.patient_id=patients.patient_id where  diagnosis='Dementia';
+
+-- Display every patient's first_name.Order the list by the length of each name and then by alphabetically.
+select first_name 
+from patients
+order by len(first_name) ,first_name
