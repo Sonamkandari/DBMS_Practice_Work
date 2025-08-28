@@ -100,3 +100,8 @@ select distinct year(birth_date) as
 birth_year from
 patients order by birth_year;
 
+SELECT  patient_id, first_name
+FROM patients
+where
+first_name like 's____%s';
+
