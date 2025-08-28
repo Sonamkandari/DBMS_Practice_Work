@@ -49,8 +49,26 @@ where height=(
   select max(height)
   from patients
 )
-
+-- 28-08-2025
 -- Show the total number of admissions
 
 SELECT count(*)
 from admissions
+
+or 
+
+SELECT count(*)
+from admissions
+
+-- Show all the columns from admissions where the patient was admitted and discharged on the same day.
+select * 
+from admissions
+where discharge_date=admission_date;
+
+-- Show the patient id and the total number of admissions for patient_id 579.
+select patient_id,count(*) as total_admissions
+from admissions where patient_id='579';
+
+
+
+
