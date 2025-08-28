@@ -31,6 +31,13 @@ select count(patient_id)
 from patients
 where year(bith_date)=2010;
 
+-- distict key word can be use here
+select distinct city from patients where province_id='NS';
+
+select first_name,last_name,birth_date
+from patients 
+where height>160 and weight >70;
+
 select count(*) as total_patients
 from patients 
 where year(birth_date)=2010;
@@ -69,6 +76,13 @@ where discharge_date=admission_date;
 select patient_id,count(*) as total_admissions
 from admissions where patient_id='579';
 
+-- distict key word can be use here
+select distinct city from patients where province_id='NS';
 
+-- Write a query to find the first_name,last name and birth date of patients who has height greater than 160 and weight greater than 70
+
+select first_name,last_name,birth_date
+from patients 
+where height>160 and weight >70;
 
 
