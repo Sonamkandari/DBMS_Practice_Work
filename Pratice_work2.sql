@@ -114,3 +114,23 @@ on admissions.patient_id=patients.patient_id where  diagnosis='Dementia';
 select first_name 
 from patients
 order by len(first_name) ,first_name
+
+-- Show patient_id, diagnosis from admissions. Find patients admitted multiple times for the same diagnosis.
+SELECT first_name, last_name, allergies
+FROM patients
+WHERE allergies IN ('Morphine', 'Penicillin')
+order by
+allergies,
+first_name,
+last_name;
+
+--Show patient_id, diagnosis from admissions. Find patients admitted multiple times for the same diagnosis.
+
+select  patient_id ,diagnosis 
+from admissions
+-- same keyword or if group word is used it means u have to use group by
+-- if group by keyword is used it means there u have to use having clause
+
+group by patient_id,diagnosis
+having count(*)>1;
+
