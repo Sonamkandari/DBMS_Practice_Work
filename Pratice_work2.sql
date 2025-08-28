@@ -105,3 +105,7 @@ FROM patients
 where
 first_name like 's____%s';
 
+select patients.patient_id,first_name,last_name
+from patients
+join admissions
+on admissions.patient_id=patients.patient_id where  diagnosis='Dementia';
