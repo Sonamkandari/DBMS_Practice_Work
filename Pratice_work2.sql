@@ -49,3 +49,8 @@ where height=(
   select max(height)
   from patients
 )
+
+-- Show the total number of admissions
+
+SELECT count(*)
+from admissions
