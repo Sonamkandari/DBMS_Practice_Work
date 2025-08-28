@@ -85,4 +85,18 @@ select first_name,last_name,birth_date
 from patients 
 where height>160 and weight >70;
 
+-- Write a query to find list of patients first_name, last_name, and allergies where allergies are not null and are from the city of 'Hamilton'
+select first_name,last_name ,allergies
+from patients
+where allergies not null and city ='Hamilton';
+
+select distinct year(birth_date) as 
+birth_year from
+patients order by birth_year;
+
+-- Show unique birth years from patients and order them by ascending.
+
+select distinct year(birth_date) as 
+birth_year from
+patients order by birth_year;
 
