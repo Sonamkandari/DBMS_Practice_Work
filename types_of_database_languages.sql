@@ -53,7 +53,17 @@ select * from students;
 
 
 
+-- Rename table
+Alter table students Rename to classMembers;
 
+select * from classMembers;
+
+GRANT SELECT, INSERT ON ClassMembers TO studentUser;
+
+TRUNCATE TABLE ClassMembers;
+DROP TABLE ClassMembers;
+
+select * from students;
 
 
 
