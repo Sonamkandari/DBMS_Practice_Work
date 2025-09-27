@@ -41,3 +41,34 @@
 * Text Data Types
 * Date and Time Data Types
   ![Data Types](https://github.com/user-attachments/assets/282c9bbb-ed05-4cf8-b77f-60cfd892e14c)
+
+  ---
+## Types of SQL Commands
+ ### DDL commands (Data Defination language command)
+ 
+* Note when at the begining your database is empty and now what have done here is you have defined something new in the database and you used some commands to write create  and alter something in the data base those commands are comes under the DDL commands
+  <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/8670a833-a1e7-4bf2-9eff-e4a50d76b770" />
+
+### DML commands (Data Manipulation language  Commands)
+*
+
+### TCL Commands (Transmission Control language commands)
+*
+<img width="916" height="514" alt="image" src="https://github.com/user-attachments/assets/acd2f4bc-2bc5-4eef-8c0f-6259e0ab6e35" />
+
+---
+* why we  leaning SQL
+  1. if you want to talk to the data you should use SQL
+  2. High Demand of SQl (Data Analysis)
+  3. Industry Standard
+     <img width="787" height="516" alt="image" src="https://github.com/user-attachments/assets/ebade717-15fd-4cc7-960a-a766c0228faf" />
+---
+
+## Summary
+<img width="956" height="528" alt="image" src="https://github.com/user-attachments/assets/33e4518b-6ac3-46dc-86ae-808cc7a64c9d" />
+
+---
+
+
+
+
