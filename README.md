@@ -81,6 +81,11 @@
 * filters Data After Aggregation
 * having clause can be used only with Group by
 
+---
+## imp
+* since we already have where clause to filter the data so why do we use having clause
+* if you want to filter the data before the aggregation we use WHERE CLAUSE
+*if you want to filter the data after the aggregation we use HAVING CLAUSE
 
 
 
