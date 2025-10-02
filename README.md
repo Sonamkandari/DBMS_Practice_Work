@@ -70,8 +70,7 @@
 ---
 * learned about all the basics queries 
 * select , where clause, having clause, order by , or Group by 
-<img width="495" height="359" alt="image" src="https://github.com/user-attachments/assets/dadbf59c-45fe-4bdf-9fc0-30f711981b8a" />
-
+<img width="507" height="398" alt="image" src="https://github.com/user-attachments/assets/0c8d5dfa-02e3-46c3-b03a-d585f9a55f89" />
 
 ---
 * SQL clause
