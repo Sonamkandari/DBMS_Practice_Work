@@ -80,7 +80,7 @@
 * having 
 * filters Data After Aggregation
 * having clause can be used only with Group by
-
+* Distinct keyword helps you to remove duplicate from your data and each value appears only once 
 ---
 ## imp
 ### since we already have where clause to filter the data so why do we use having clause ?
