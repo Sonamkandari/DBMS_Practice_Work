@@ -1,7 +1,9 @@
-# DBMS_Practice_Work
+# SQL_AND_DBMS
 
+---
+# Lecture -1
+---
 # Basics
-
 * **Databases**: A database is a container used to store data.
   ![Databases](https://github.com/user-attachments/assets/1b5a5f19-2b96-4579-a7ea-8b29845e1344)
 * **SQL**: SQL (Structured Query Language) is used to communicate with databases.
@@ -42,7 +44,9 @@
 * Date and Time Data Types
   ![Data Types](https://github.com/user-attachments/assets/282c9bbb-ed05-4cf8-b77f-60cfd892e14c)
 
-  ---
+---
+# Lecture 2
+---
 ## Types of SQL Commands
  ### DDL commands (Data Defination language command)
  
@@ -101,4 +105,6 @@
 
 <img width="551" height="555" alt="image" src="https://github.com/user-attachments/assets/97a4f75e-8eb8-434e-b527-27ec68640212" />
 
-
+---
+conclusion
+<img width="642" height="404" alt="image" src="https://github.com/user-attachments/assets/3a443bfd-e30e-4bac-a37e-92821711f4ef" />
