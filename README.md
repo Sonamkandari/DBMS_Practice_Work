@@ -92,7 +92,7 @@
 - -- each value appears only once 
 - -- distict keyword acts like as a filter each value occurs only once
 - select  distinct country from customers;
-- -- we should not unecessorly use the distinct keyword 
+- -- we should not unecessarily use the distinct keyword 
 - -- for example as we know that primary keys are already unique and distinct 
 - -- so we don't have to specifically use distinct keyword  at that column
 - 
