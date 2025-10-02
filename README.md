@@ -86,7 +86,6 @@
 ### since we already have where clause to filter the data so why do we use having clause ?
 * if you want to filter the data before the aggregation we use WHERE CLAUSE
 * if you want to filter the data after the aggregation we use HAVING CLAUSE
-
-![Uploading image.png…]()
+<img width="666" height="216" alt="image" src="https://github.com/user-attachments/assets/fa433ace-ddd6-4a8d-82f9-b07c8bd42dfe" />
 
 
