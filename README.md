@@ -87,4 +87,16 @@
 * if you want to filter the data after the aggregation we use HAVING CLAUSE
 <img width="666" height="216" alt="image" src="https://github.com/user-attachments/assets/fa433ace-ddd6-4a8d-82f9-b07c8bd42dfe" />
 
+- ---
+- -- Distinct keyword helps you to remove duplicate from your data
+- -- each value appears only once 
+- -- distict keyword acts like as a filter each value occurs only once
+- select  distinct country from customers;
+- -- we should not unecessorly use the distinct keyword 
+- -- for example as we know that primary keys are already unique and distinct 
+- -- so we don't have to specifically use distinct keyword  at that column
+- 
+- -- * Top (Limit ) clause or keyword is used Restrict the Number of  Rows Returned
+-- *In SQL, a clause is basically a part of a SQL statement that tells the database what to do.
+
 
