@@ -87,5 +87,6 @@
 * if you want to filter the data before the aggregation we use WHERE CLAUSE
 * if you want to filter the data after the aggregation we use HAVING CLAUSE
 
+![Uploading image.png…]()
 
 
