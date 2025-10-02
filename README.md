@@ -68,6 +68,11 @@
 <img width="956" height="528" alt="image" src="https://github.com/user-attachments/assets/33e4518b-6ac3-46dc-86ae-808cc7a64c9d" />
 
 ---
+* learned about all the basics queries 
+* select , where clause, having clause, order by , or Group by 
+<img width="495" height="359" alt="image" src="https://github.com/user-attachments/assets/dadbf59c-45fe-4bdf-9fc0-30f711981b8a" />
+
+
 
 
 
