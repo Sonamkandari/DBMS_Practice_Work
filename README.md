@@ -92,11 +92,13 @@
 - -- each value appears only once 
 - -- distict keyword acts like as a filter each value occurs only once
 - select  distinct country from customers;
-- -- we should not unecessarily use the distinct keyword 
-- -- for example as we know that primary keys are already unique and distinct 
-- -- so we don't have to specifically use distinct keyword  at that column
-- 
-- -- * Top (Limit ) clause or keyword is used Restrict the Number of  Rows Returned
--- *In SQL, a clause is basically a part of a SQL statement that tells the database what to do.
+-  we should not unecessarily use the distinct keyword 
+-  for example as we know that primary keys are already unique and distinct 
+-  so we don't have to specifically use distinct keyword  at that column
+---
+* Top (Limit ) clause or keyword is used Restrict the Number of  Rows Returned
+* In SQL, a clause is basically a part of a SQL statement that tells the database what to do.
+
+<img width="551" height="555" alt="image" src="https://github.com/user-attachments/assets/97a4f75e-8eb8-434e-b527-27ec68640212" />
 
 
