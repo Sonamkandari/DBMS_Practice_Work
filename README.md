@@ -73,6 +73,13 @@
 <img width="495" height="359" alt="image" src="https://github.com/user-attachments/assets/dadbf59c-45fe-4bdf-9fc0-30f711981b8a" />
 
 
+---
+* SQL clause
+* Having clause
+* Filtered Aggregated Data
+* having 
+* filters Data After Aggregation
+* having clause can be used only with Group by
 
 
 
