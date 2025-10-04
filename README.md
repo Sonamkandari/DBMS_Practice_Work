@@ -133,3 +133,23 @@ conclusion
 - if we want to delete everything (or all the data from the table ) we can use truncate command
 - Truncate : it clears the whole table at once without checking or logging
 - <img width="495" height="219" alt="image" src="https://github.com/user-attachments/assets/189fb180-562a-4099-a22b-e989dd7ce55a" />
+---
+# Comparison Operators
+1) equals = checks two values are equal
+2) Not equals <>!= checks if two values are not equal
+3) greater
+4) greater than or equals to operator
+5) lesser than operator
+6) less than or equals to operator
+# Logical operator
+1) And operator : All condition must be true
+2) or operator : Atleast  one condition must be true aot of all the condition
+4) Not operator :reverse  operator it will excludes the matching values
+# Range operator
+1) Between : check whether an values falls between a specific range or not
+# Membership Operator
+1) In Operator
+2) Not In
+# Search operator
+1)Like
+
