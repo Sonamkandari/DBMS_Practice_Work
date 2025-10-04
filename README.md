@@ -108,3 +108,12 @@
 ---
 conclusion
 <img width="642" height="404" alt="image" src="https://github.com/user-attachments/assets/3a443bfd-e30e-4bac-a37e-92821711f4ef" />
+---
+# SQL DML Commands |Inser, Update , & Delete |
+- for example insert command can be used to insert new data inside a table in a database
+- Manually Entry
+- sysntax is:**Insert into table_name (Solumn1,column2,column3) values(value1,value2,value3)**
+- **Note**: forxample if no columns are specified SQL expects values for all columns
+- <img width="928" height="436" alt="image" src="https://github.com/user-attachments/assets/1754efe3-a994-4a80-a8f9-9e507e341d8f" />
+
+- 
