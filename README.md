@@ -126,4 +126,10 @@ conclusion
 * <img width="636" height="523" alt="image" src="https://github.com/user-attachments/assets/4afc75d5-a7e1-4f8f-b3d9-fb893ddb8ccd" />
 * Modify (manipulate) your data
 * Update table_name set column1=value1, column2= value2 where <condition>
-* 
+* Delete commands
+* <img width="638" height="335" alt="image" src="https://github.com/user-attachments/assets/0a0a7737-f802-4f0f-82ce-f6f855a68404" />
+
+-- delete all data from tables persons
+- if we want to delete everything (or all the data from the table ) we can use truncate command
+- Truncate : it clears the whole table at once without checking or logging
+- <img width="495" height="219" alt="image" src="https://github.com/user-attachments/assets/189fb180-562a-4099-a22b-e989dd7ce55a" />
