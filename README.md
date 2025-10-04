@@ -134,6 +134,8 @@ conclusion
 - Truncate : it clears the whole table at once without checking or logging
 - <img width="495" height="219" alt="image" src="https://github.com/user-attachments/assets/189fb180-562a-4099-a22b-e989dd7ce55a" />
 ---
+<img width="904" height="445" alt="image" src="https://github.com/user-attachments/assets/b3324edd-c5cd-439c-bef3-ca693d316c62" />
+---
 # Comparison Operators
 1) equals = checks two values are equal
 2) Not equals <>!= checks if two values are not equal
@@ -147,9 +149,12 @@ conclusion
 4) Not operator :reverse  operator it will excludes the matching values
 # Range operator
 1) Between : check whether an values falls between a specific range or not
+2) Explicit comparisons clearly show that both boundries are included
 # Membership Operator
-1) In Operator
-2) Not In
+1) In Operator :  it gonna check if the value exixts in a list or not
+3) Not In
 # Search operator
-1)Like
+1) Like :we can use it to find or search for a pattern in text
+   <img width="750" height="337" alt="image" src="https://github.com/user-attachments/assets/6684b7ec-ea19-4fa8-9e2e-08d96389810b" />
 
+---
