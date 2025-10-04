@@ -123,4 +123,7 @@ conclusion
 - <img width="694" height="279" alt="image" src="https://github.com/user-attachments/assets/0f724c7c-48c5-46b9-919f-60099292f685" />
 
 * SQL task copy data from 'Customers' table into 'persons'
+* <img width="636" height="523" alt="image" src="https://github.com/user-attachments/assets/4afc75d5-a7e1-4f8f-b3d9-fb893ddb8ccd" />
+* Modify (manipulate) your data
+* Update table_name set column1=value1, column2= value2 where <condition>
 * 
