@@ -135,24 +135,25 @@ conclusion
 - <img width="495" height="219" alt="image" src="https://github.com/user-attachments/assets/189fb180-562a-4099-a22b-e989dd7ce55a" />
 ---
 <img width="904" height="445" alt="image" src="https://github.com/user-attachments/assets/b3324edd-c5cd-439c-bef3-ca693d316c62" />
+
 ---
 # Comparison Operators
--  equals = checks two values are equal
-- Not equals <>!= checks if two values are not equal
-- greater
--  greater than or equals to operator
-- lesser than operator
--  ess than or equals to operator
+* -  equals = checks two values are equal
+* - Not equals <>!= checks if two values are not equal
+* - greater
+* -  greater than or equals to operator
+* - lesser than operator
+* -  ess than or equals to operator
 # Logical operator
--  And operator : All condition must be true
--  or operator : Atleast  one condition must be true aot of all the condition
--  Not operator :reverse  operator it will excludes the matching values
+* -  And operator : All condition must be true
+* -  or operator : Atleast  one condition must be true aot of all the condition
+* -  Not operator :reverse  operator it will excludes the matching values
 # Range operator
--  Between : check whether an values falls between a specific range or not
--  Explicit comparisons clearly show that both boundries are included
+* -  Between : check whether an values falls between a specific range or not
+* -  Explicit comparisons clearly show that both boundries are included
 # Membership Operator
--  In Operator :  it gonna check if the value exixts in a list or not
--   Not In
+* -  In Operator :  it gonna check if the value exixts in a list or not
+* -   Not In
 # Search operator
 1) Like :we can use it to find or search for a pattern in text
    <img width="750" height="337" alt="image" src="https://github.com/user-attachments/assets/6684b7ec-ea19-4fa8-9e2e-08d96389810b" />
