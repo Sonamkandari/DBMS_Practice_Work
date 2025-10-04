@@ -111,9 +111,16 @@ conclusion
 ---
 # SQL DML Commands |Inser, Update , & Delete |
 - for example insert command can be used to insert new data inside a table in a database
-- Manually Entry
+# Manually Entry (Fisrt Method to insert Data)
+<img width="626" height="246" alt="image" src="https://github.com/user-attachments/assets/a6c127a4-9ebf-4850-a780-5837cac905a1" />
+
 - sysntax is:**Insert into table_name (Solumn1,column2,column3) values(value1,value2,value3)**
 - **Note**: forxample if no columns are specified SQL expects values for all columns
 - <img width="928" height="436" alt="image" src="https://github.com/user-attachments/assets/1754efe3-a994-4a80-a8f9-9e507e341d8f" />
 
-- 
+# Inserting data using Another table (Another Method to insert Data)
+- using a source table for inserting the data into a target table
+- <img width="694" height="279" alt="image" src="https://github.com/user-attachments/assets/0f724c7c-48c5-46b9-919f-60099292f685" />
+
+* SQL task copy data from 'Customers' table into 'persons'
+* 
