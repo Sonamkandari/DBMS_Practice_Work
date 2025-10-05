@@ -198,4 +198,9 @@ conclusion
    - left   join will returns all the rows from left and only matching from right
    - Note here order of the data is very important we have always start with the correct table
   <img width="675" height="355" alt="image" src="https://github.com/user-attachments/assets/feea9fce-78de-4aad-91b7-e9a5b17b5371" />
+## Right join
+ - this is the totally opposite of the left join
+ - It Return all the Rows from the right and only matching from left
+   <img width="911" height="489" alt="image" src="https://github.com/user-attachments/assets/4187c0db-aead-42dc-867f-c707d0f95a3d" />
+
 
