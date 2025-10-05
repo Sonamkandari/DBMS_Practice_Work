@@ -190,3 +190,12 @@ conclusion
 
 --- how we implimented it
 <img width="899" height="359" alt="image" src="https://github.com/user-attachments/assets/b962eadf-b076-410d-ba9d-c12e340f04d9" />
+-** how does inner join work ?**
+- In an INNER JOIN, each ID from the left table is compared with every ID in the right table. Only the rows with matching IDs in both tables are included in the output.
+- we can use inner join either to combines data of multiple tables
+- also we can use inner join only for filtering purposes
+  ## Left Join
+   - left   join will returns all the rows from left and only matching from right
+   - Note here order of the data is very important we have always start with the correct table
+  <img width="675" height="355" alt="image" src="https://github.com/user-attachments/assets/feea9fce-78de-4aad-91b7-e9a5b17b5371" />
+
