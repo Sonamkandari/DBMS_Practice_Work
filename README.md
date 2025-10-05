@@ -182,4 +182,8 @@ conclusion
 - Example: Filtering out customers who don’t have an email address or checking if a product ID exists before processing it.
 -  Summary
 -  <img width="773" height="517" alt="image" src="https://github.com/user-attachments/assets/1570d949-ddff-4ad7-a21f-974c992e706c" />
+### All the Types of joins
+<img width="630" height="538" alt="image" src="https://github.com/user-attachments/assets/831849f2-4fe8-4a16-aaff-01629ce3091c" />
+
+## Inner join' Return Only matching Rows From both tables
 
