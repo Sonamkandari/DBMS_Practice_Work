@@ -186,4 +186,7 @@ conclusion
 <img width="630" height="538" alt="image" src="https://github.com/user-attachments/assets/831849f2-4fe8-4a16-aaff-01629ce3091c" />
 
 ## Inner join' Return Only matching Rows From both tables
+<img width="662" height="396" alt="image" src="https://github.com/user-attachments/assets/45c2d6b8-9bf3-4f6f-8188-d2cdac400431" />
 
+--- how we implimented it
+<img width="899" height="359" alt="image" src="https://github.com/user-attachments/assets/b962eadf-b076-410d-ba9d-c12e340f04d9" />
