@@ -208,3 +208,8 @@ conclusion
  - Returns all rows from both tables
  - <img width="758" height="393" alt="image" src="https://github.com/user-attachments/assets/59ca29c2-86a9-45a7-b6d2-3a61f9ece73a" />
 
+---
+# Advance SQL  joins
+- **Left Anti join**
+- Returns row from left that has no match in right
+- <img width="712" height="403" alt="image" src="https://github.com/user-attachments/assets/3046de1a-9977-48df-ba94-d0be516e70bc" />
