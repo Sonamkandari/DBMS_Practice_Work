@@ -213,3 +213,8 @@ conclusion
 - **Left Anti join**
 - Returns row from left that has no match in right
 - <img width="712" height="403" alt="image" src="https://github.com/user-attachments/assets/3046de1a-9977-48df-ba94-d0be516e70bc" />
+
+- **Right anti join**
+- returns rows from right that has no match in left
+<img width="628" height="355" alt="image" src="https://github.com/user-attachments/assets/6c34b641-f17c-4b52-8792-d4d53c0d5c07" />
+
