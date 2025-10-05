@@ -159,3 +159,27 @@ conclusion
    <img width="750" height="337" alt="image" src="https://github.com/user-attachments/assets/6684b7ec-ea19-4fa8-9e2e-08d96389810b" />
 
 ---
+# Joins
+<img width="945" height="506" alt="image" src="https://github.com/user-attachments/assets/3ea012a0-c79a-47dc-888f-6f659caacf0f" />
+
+# what are joins
+<img width="653" height="502" alt="image" src="https://github.com/user-attachments/assets/bf5ef8cf-b394-447b-8362-9b4aeadb69c6" />
+
+# why we need SQL joins
+### Recombine Data
+- This means **merging or joining data** from multiple sources or tables into one combined dataset.
+- <img width="908" height="461" alt="image" src="https://github.com/user-attachments/assets/7c57ce2c-068c-4228-a86c-283f367b32aa" /> 
+- Example: Combining customer details from one table with their order history from another to get a full view of each customer.  
+
+### Data Enrichment (Getting Extra Data)
+- **Enhancing existing data** by adding extra information from external or internal sources.
+-  <img width="881" height="439" alt="image" src="https://github.com/user-attachments/assets/d03a33de-1999-45f7-8979-6b1bdfa1bf90" />
+- Example: Adding location, age group, or social media info to customer records to make the data more useful for analysis.  
+
+### Check for Existence (Filtering)
+- **Verifying or filtering data** to keep only the records that meet certain conditions.
+- <img width="932" height="437" alt="image" src="https://github.com/user-attachments/assets/1739fc6c-6cf3-478e-8bda-0ff77f41aadf" />
+- Example: Filtering out customers who don’t have an email address or checking if a product ID exists before processing it.
+-  Summary
+-  <img width="773" height="517" alt="image" src="https://github.com/user-attachments/assets/1570d949-ddff-4ad7-a21f-974c992e706c" />
+
