@@ -202,5 +202,9 @@ conclusion
  - this is the totally opposite of the left join
  - It Return all the Rows from the right and only matching from left
    <img width="911" height="489" alt="image" src="https://github.com/user-attachments/assets/4187c0db-aead-42dc-867f-c707d0f95a3d" />
-
+- **Note** : In place of right join, it is always preferred to use left join
+- by changing the left and right tables
+ ## Full join
+ - Returns all rows from both tables
+ - <img width="758" height="393" alt="image" src="https://github.com/user-attachments/assets/59ca29c2-86a9-45a7-b6d2-3a61f9ece73a" />
 
