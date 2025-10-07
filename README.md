@@ -223,6 +223,26 @@ conclusion
 - **Full Anti join**
 - Return only rows that dont match in either tables
 <img width="736" height="424" alt="image" src="https://github.com/user-attachments/assets/729076c2-8ab8-4bd8-b738-4be81c039bd5" />
+---
+ ## Note
+- MySQL does not recognize the FULL JOIN keyword, unlike other database systems like PostgreSQL and SQL Server. When the MySQL parser encounters this syntax, it produces an error because it is an invalid command
+
+# full anti join is used for checking -> (Check Existence)
+
+- Get all customers along with their orders but only for customers who placed an order (without using IIner join)
+
+## Cross join
+- we tru to combine Every row from the left with Every row from right  All possible combinatitions
+
+---
+- summary
+- <img width="727" height="360" alt="image" src="https://github.com/user-attachments/assets/bf70cbdb-32a0-4a3f-ba07-a5ca9292dce3" />
+---
+# multi join
+## How to join multiple tables
+<img width="736" height="351" alt="image" src="https://github.com/user-attachments/assets/04a9182f-3507-4280-b143-6157ba1b96ff" />
+
+## Using SalesDB, Retrieve a list of all orders, along with the related customer, prduct and employee details
 
 
 
