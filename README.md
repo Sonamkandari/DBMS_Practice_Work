@@ -274,4 +274,6 @@ conclusion
 - But if there will not be same number of rows and columns  and we will try to use set operators there it will give an error
 <img width="1388" height="833" alt="image" src="https://github.com/user-attachments/assets/8ed55825-5bbc-49c7-aa47-2def6e10f22d" />
 ---
-
+# Rule 3 |Data Types
+- Data types of columns in each quesry must be compatible
+- 
