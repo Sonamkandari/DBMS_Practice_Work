@@ -242,8 +242,30 @@ conclusion
 ## How to join multiple tables
 <img width="736" height="351" alt="image" src="https://github.com/user-attachments/assets/04a9182f-3507-4280-b143-6157ba1b96ff" />
 
-## Using SalesDB, Retrieve a list of all orders, along with the related customer, prduct and employee details
+### Using SalesDB, Retrieve a list of all orders, along with the related customer, prduct and employee details
 
+---
+- 8|NOV|2025
+- ## joins and set operators
+- <img width="696" height="374" alt="image" src="https://github.com/user-attachments/assets/21294cf6-fee5-48bc-83f2-6cf4325f6c78" />
 
+## when we use joins 
+- when we required to join different columns we use joins
+## when we use set operators 
+- when we required to join different rows we use set operators
+---
+# syntax of set operators
+<img width="577" height="261" alt="image" src="https://github.com/user-attachments/assets/c87b5777-8af1-49ce-9ab9-aa0ee6f8d8a2" />
 
+---
+# Rules of the set operators
+- **Rule1: SQL Clauses**
+- SET Operator can be used almost in all clauses WHERE|JOIN|GROUP BY|HAVING
+- Order By is allowed only once at the end of the query
+- <img width="596" height="394" alt="image" src="https://github.com/user-attachments/assets/396858bf-d24b-4828-ac5b-88d3a5dcc783" />
+---
+- **Rule2: Number of cloumns**
+- The number of columns in each query must be the same
+- 
 
+  
