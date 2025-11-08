@@ -268,7 +268,9 @@ conclusion
 - The number of columns in each query must be the same
   
 <img width="451" height="612" alt="image" src="https://github.com/user-attachments/assets/80500e92-7fbe-4cce-848d-9d86bc01ae3f" />
+---
 - In this case we have same number of rows in both the table
 - But if there will not be same number of rows and columns  and we will try to use set operators there it will give an error
+<img width="1388" height="833" alt="image" src="https://github.com/user-attachments/assets/8ed55825-5bbc-49c7-aa47-2def6e10f22d" />
 ---
 
