@@ -299,10 +299,12 @@ conclusion
 - <img width="730" height="498" alt="image" src="https://github.com/user-attachments/assets/3d7587b9-62aa-42c4-ba3f-c404114cdfb3" />
 
 ### OUTPUT:
-- <img width="431" height="134" alt="image" src="https://github.com/user-attachments/assets/f8a1ea2c-7b10-477d-9729-2361ad46f570" />
+<img width="431" height="134" alt="image" src="https://github.com/user-attachments/assets/f8a1ea2c-7b10-477d-9729-2361ad46f570" />
 
 ---
+
 <img width="653" height="350" alt="image" src="https://github.com/user-attachments/assets/5e715b8a-1706-44db-9f84-1f87be5ad06d" />
+
 ---
 - Sql compare each row very carefully and this is how sql will gerenerate the union of two tables the output will not contain any duplicate rows
 - <img width="262" height="274" alt="image" src="https://github.com/user-attachments/assets/1f9f66da-5bea-4ce3-99a7-de7f8f5dec8f" />
