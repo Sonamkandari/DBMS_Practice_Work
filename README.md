@@ -399,4 +399,7 @@ Practicle example
 <img width="478" height="359" alt="image" src="https://github.com/user-attachments/assets/6189f965-a8e3-45ec-89e5-783fff2d47f3" />
 
 ---
+## CHAPTER-12 SQL FUNCTIONS
+---
+<img width="613" height="357" alt="image" src="https://github.com/user-attachments/assets/892882b3-ca02-4006-8363-46bdc5d784ef" />
 
