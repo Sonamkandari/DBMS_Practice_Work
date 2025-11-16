@@ -371,3 +371,32 @@ Practicle example
 <img width="422" height="605" alt="image" src="https://github.com/user-attachments/assets/311e46d1-2caf-4001-bb01-f4c95a41fd31" />
 ---
 
+- **How we use and impliment set operators in our real projects how they works**
+
+- **Combine Information**
+- <img width="370" height="341" alt="image" src="https://github.com/user-attachments/assets/ef231fe1-e0ea-4f8d-b6ea-1b09f6b731c0" />
+
+- chances of incosnsistant data
+
+- <img width="486" height="333" alt="image" src="https://github.com/user-attachments/assets/3b5b3aaa-bde8-432e-8405-098791b1c27f" />
+
+-- **Another use case of Except operators is**
+<img width="444" height="207" alt="image" src="https://github.com/user-attachments/assets/270805e6-2eb8-4a4d-a1ff-3873b0f39357" />
+
+---
+<img width="631" height="251" alt="image" src="https://github.com/user-attachments/assets/b0bd2f09-088d-40a8-82fb-f04c6bd335fc" />
+
+<img width="631" height="251" alt="image" src="https://github.com/user-attachments/assets/afb4a5c0-10ee-4a15-a114-cefefed0cde0" />
+
+-- **Deata completeness check**
+<img width="460" height="200" alt="image" src="https://github.com/user-attachments/assets/5753d218-09f4-485d-b7b8-3cd25d24b4fc" />
+
+
+<img width="468" height="296" alt="image" src="https://github.com/user-attachments/assets/4988ade9-4c31-419a-98ea-ef43ce150d18" />
+
+---
+- **Summary of this chapter**
+<img width="478" height="359" alt="image" src="https://github.com/user-attachments/assets/6189f965-a8e3-45ec-89e5-783fff2d47f3" />
+
+---
+
