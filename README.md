@@ -290,5 +290,30 @@ conclusion
 - this is not true for in case of MySql dbms
 - <img width="663" height="240" alt="image" src="https://github.com/user-attachments/assets/2e90761c-9f24-4676-8adf-6a18d7e0a17e" />
 ---
+<img width="813" height="513" alt="image" src="https://github.com/user-attachments/assets/661c3d91-a397-4368-97c3-dfd769387f75" />
+
+---
+## UNION 
+- Returns all district rows from queries
+- Removes duplicate rows from the result
+- <img width="730" height="498" alt="image" src="https://github.com/user-attachments/assets/3d7587b9-62aa-42c4-ba3f-c404114cdfb3" />
+
+### OUTPUT:
+- <img width="431" height="134" alt="image" src="https://github.com/user-attachments/assets/f8a1ea2c-7b10-477d-9729-2361ad46f570" />
+
+---
+<img width="653" height="350" alt="image" src="https://github.com/user-attachments/assets/5e715b8a-1706-44db-9f84-1f87be5ad06d" />
+---
+- Sql compare each row very carefully and this is how sql will gerenerate the union of two tables the output will not contain any duplicate rows
+- <img width="262" height="274" alt="image" src="https://github.com/user-attachments/assets/1f9f66da-5bea-4ce3-99a7-de7f8f5dec8f" />
+
+---
+## Practical example
+
+<img width="493" height="96" alt="image" src="https://github.com/user-attachments/assets/07c4ad26-54f5-4e47-96cd-be7b919e415a" />
+
+
 ![Uploading image.png…]()
+
+
 
