@@ -352,8 +352,22 @@ OUTPUT
 <img width="532" height="362" alt="image" src="https://github.com/user-attachments/assets/98d59eef-80ba-42ad-ae1f-9dd8ba506a22" />
 
 ---
+<img width="471" height="357" alt="image" src="https://github.com/user-attachments/assets/a1fe5b04-e942-4b92-8bc7-921b5358d94d" />
+
+<img width="440" height="361" alt="image" src="https://github.com/user-attachments/assets/59973895-e0d3-4ab6-a508-fc9b772bd311" />
+---
+
+Practicle example
+
+- <img width="313" height="244" alt="image" src="https://github.com/user-attachments/assets/6629d986-ced6-4699-b62f-181f0b8ebd1b" />
+
+---
+<img width="499" height="198" alt="image" src="https://github.com/user-attachments/assets/6e5aa192-e4d8-49b6-8fed-9d21b1a8f5d8" />
+
+---
 <img width="451" height="284" alt="image" src="https://github.com/user-attachments/assets/94cf5c5f-644a-4904-8a26-7059ed6a20c3" />
 
 ---
 <img width="422" height="605" alt="image" src="https://github.com/user-attachments/assets/311e46d1-2caf-4001-bb01-f4c95a41fd31" />
+---
 
