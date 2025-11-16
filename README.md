@@ -286,4 +286,9 @@ conclusion
 - sql is going to comapare the first column with the first column of another table similarly first row of the table with first row of anothere table
 - if we will do this this will trow an error
 <img width="583" height="372" alt="image" src="https://github.com/user-attachments/assets/3c73cfb7-b07a-4789-b482-542a00e26172" />
+--- 
+- this is not true for in case of MySql dbms
+- <img width="663" height="240" alt="image" src="https://github.com/user-attachments/assets/2e90761c-9f24-4676-8adf-6a18d7e0a17e" />
+---
+![Uploading image.png…]()
 
