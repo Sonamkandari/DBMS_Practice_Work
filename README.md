@@ -276,4 +276,14 @@ conclusion
 ---
 # Rule 3 |Data Types
 - Data types of columns in each quesry must be compatible
-- 
+
+---
+- note  there is no data type mismatch in between both tables rows and also number of co;umns are equal in the both the table
+<img width="779" height="689" alt="image" src="https://github.com/user-attachments/assets/e5260a97-9620-4280-a71c-9ccd1ab608bd" />
+---
+<img width="487" height="140" alt="image" src="https://github.com/user-attachments/assets/35659fa5-64c2-42d2-a269-07b2c04b4dd8" />
+
+- sql is going to comapare the first column with the first column of another table similarly first row of the table with first row of anothere table
+- if we will do this this will trow an error
+<img width="583" height="372" alt="image" src="https://github.com/user-attachments/assets/3c73cfb7-b07a-4789-b482-542a00e26172" />
+
