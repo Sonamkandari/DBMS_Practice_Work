@@ -340,3 +340,20 @@ OUTPUT
 
 ---
 <img width="612" height="363" alt="image" src="https://github.com/user-attachments/assets/255e9289-ff5c-4c69-9158-b8a177089868" />
+
+---
+<img width="484" height="266" alt="image" 
+  src="https://github.com/user-attachments/assets/c719bae3-bb95-4881-a413-ff3a66cc3006" />
+
+  ---
+  <img width="624" height="334" alt="image" src="https://github.com/user-attachments/assets/7fe5fb0b-20f0-4ffe-a0f8-84d214a7dc05" />
+
+## output of except operator
+<img width="532" height="362" alt="image" src="https://github.com/user-attachments/assets/98d59eef-80ba-42ad-ae1f-9dd8ba506a22" />
+
+---
+<img width="451" height="284" alt="image" src="https://github.com/user-attachments/assets/94cf5c5f-644a-4904-8a26-7059ed6a20c3" />
+
+---
+<img width="422" height="605" alt="image" src="https://github.com/user-attachments/assets/311e46d1-2caf-4001-bb01-f4c95a41fd31" />
+
