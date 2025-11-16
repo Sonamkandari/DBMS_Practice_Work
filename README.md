@@ -318,5 +318,23 @@ conclusion
 <img width="259" height="269" alt="image" src="https://github.com/user-attachments/assets/68cbea84-cd43-4be2-a03b-bcfc9b4a48ad" />
 
 ---
+## Union ALL Operator
+<img width="468" height="198" alt="image" src="https://github.com/user-attachments/assets/fabfc179-395b-4647-97e9-e36e2c9b559f" />
+---
+### why Union all is better than  union
+<img width="455" height="185" alt="image" src="https://github.com/user-attachments/assets/bebf683f-1fbc-46f6-8c08-7647f30041f7" />
 
+<img width="455" height="563" alt="image" src="https://github.com/user-attachments/assets/d9807a88-7886-40fc-9513-034dd9fd3bc8" />
+
+---
+<img width="554" height="342" alt="image" src="https://github.com/user-attachments/assets/716b0d38-4358-4db6-b218-20540cc60464" />
+
+- Out put union all will return all the data even the duplicate rows
+- <img width="639" height="366" alt="image" src="https://github.com/user-attachments/assets/67035c0e-b606-4fcd-97ce-c120eec89fc9" />
+---
+## Practical Example 
+<img width="808" height="162" alt="image" src="https://github.com/user-attachments/assets/da21b810-8ac8-4fe5-b02f-c866c1f75d3d" />
+
+OUTPUT
+<img width="331" height="304" alt="image" src="https://github.com/user-attachments/assets/7eb64142-b154-4f6e-8be1-e0837d19cf8b" />
 
