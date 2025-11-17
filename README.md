@@ -248,7 +248,7 @@ conclusion
 - 8|NOV|2025
 - ## joins and set operators
 - <img width="696" height="374" alt="image" src="https://github.com/user-attachments/assets/21294cf6-fee5-48bc-83f2-6cf4325f6c78" />
-
+---
 ## when we use joins 
 - when we required to join different columns we use joins
 ## when we use set operators 
@@ -319,7 +319,10 @@ conclusion
 
 ---
 ## Union ALL Operator
+---
+
 <img width="468" height="198" alt="image" src="https://github.com/user-attachments/assets/fabfc179-395b-4647-97e9-e36e2c9b559f" />
+
 ---
 ### why Union all is better than  union
 <img width="455" height="185" alt="image" src="https://github.com/user-attachments/assets/bebf683f-1fbc-46f6-8c08-7647f30041f7" />
@@ -345,7 +348,7 @@ OUTPUT
 <img width="484" height="266" alt="image" 
   src="https://github.com/user-attachments/assets/c719bae3-bb95-4881-a413-ff3a66cc3006" />
 
-  ---
+---
   <img width="624" height="334" alt="image" src="https://github.com/user-attachments/assets/7fe5fb0b-20f0-4ffe-a0f8-84d214a7dc05" />
 
 ## output of except operator
