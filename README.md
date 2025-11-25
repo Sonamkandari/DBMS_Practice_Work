@@ -427,4 +427,7 @@ Practicle example
 ---
 - why we need group by functionns
 - why group by functions are not enough
+
 --  
+- there is a issue with group by because of which we had decided to shift on window functions
+<img width="954" height="670" alt="image" src="https://github.com/user-attachments/assets/1402a372-aaa3-4846-8809-1b34c7578af7" />
