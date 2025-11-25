@@ -421,3 +421,10 @@ Practicle example
 ---
 # Difference between Window functions and Group by
 <img width="930" height="504" alt="image" src="https://github.com/user-attachments/assets/18c6aeef-0193-4868-b5db-999da26d9e39" />
+---
+<img width="737" height="532" alt="image" src="https://github.com/user-attachments/assets/b8e071a8-fc25-4a04-8f45-bb58819eb94d" />
+
+---
+- why we need group by functionns
+- why group by functions are not enough
+--  
