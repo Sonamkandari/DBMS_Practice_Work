@@ -406,3 +406,18 @@ Practicle example
 ---
 <img width="613" height="357" alt="image" src="https://github.com/user-attachments/assets/892882b3-ca02-4006-8363-46bdc5d784ef" />
 
+
+---
+# Lecture 22 (25-Nov-2025)
+- Window functions
+- 
+<img width="754" height="341" alt="image" src="https://github.com/user-attachments/assets/ae3ffe6a-7983-4a81-8416-1326572c847a" />
+
+- it something really close to group by but we didn't loose level of the details
+  <img width="754" height="422" alt="image" src="https://github.com/user-attachments/assets/447a6e74-43d0-453c-8cf0-1510c65a4f70" />
+---
+**Row level Calculations**
+<img width="830" height="517" alt="image" src="https://github.com/user-attachments/assets/b634530f-6b92-4809-b1b1-b2eed4b60995" />
+---
+# Difference between Window functions and Group by
+<img width="930" height="504" alt="image" src="https://github.com/user-attachments/assets/18c6aeef-0193-4868-b5db-999da26d9e39" />
