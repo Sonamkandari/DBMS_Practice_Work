@@ -54,17 +54,20 @@
   <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/8670a833-a1e7-4bf2-9eff-e4a50d76b770" />
 
 ### DML commands (Data Manipulation language  Commands)
-*
 
 ### TCL Commands (Transmission Control language commands)
-*
+---
 <img width="916" height="514" alt="image" src="https://github.com/user-attachments/assets/acd2f4bc-2bc5-4eef-8c0f-6259e0ab6e35" />
 
 ---
-* why we  leaning SQL
-  1. if you want to talk to the data you should use SQL
-  2. High Demand of SQl (Data Analysis)
-  3. Industry Standard
+* Why we learn SQL
+
+- To communicate with data — SQL is the standard language used to interact with databases.
+
+- High demand in the industry — SQL skills are essential for roles like data analysis, data engineering, backend development, and more.
+
+- Industry standard — SQL is widely used across companies and is the most common language for managing and querying relational databases.
+---
      <img width="787" height="516" alt="image" src="https://github.com/user-attachments/assets/ebade717-15fd-4cc7-960a-a766c0228faf" />
 ---
 
@@ -77,28 +80,66 @@
 <img width="507" height="398" alt="image" src="https://github.com/user-attachments/assets/0c8d5dfa-02e3-46c3-b03a-d585f9a55f89" />
 
 ---
-* SQL clause
-* Having clause
-* Filtered Aggregated Data
-* having 
-* filters Data After Aggregation
-* having clause can be used only with Group by
-* Distinct keyword helps you to remove duplicate from your data and each value appears only once 
+## 📌 SQL Important Points (Interview-Friendly)
+
+### 🚩 SQL Clause
+- A clause is a component of an SQL query (e.g., `SELECT`, `WHERE`, `GROUP BY`, `HAVING`).
+- Each clause performs a specific function in the query.
+- Clauses must follow the correct SQL order.
+
 ---
-## imp
-### since we already have where clause to filter the data so why do we use having clause ?
-* if you want to filter the data before the aggregation we use WHERE CLAUSE
-* if you want to filter the data after the aggregation we use HAVING CLAUSE
+
+### 🚩 HAVING Clause
+- Used to filter **aggregated/grouped** data.
+- Applied **after** `GROUP BY`.
+- Supports aggregate functions (`SUM`, `COUNT`, `AVG`, etc.).
+- `WHERE` filters **before** aggregation; `HAVING` filters **after**.
+
+---
+
+### 🚩 Filtered Aggregated Data
+- Refers to filtering data **after aggregation**.
+- Can be done only using the **HAVING** clause.
+
+---
+
+### 🚩 HAVING – Key Rules
+- Works with `GROUP BY` or aggregate functions.
+- Used to apply conditions on aggregated values.
+- Used for post-aggregation filtering.
+
+---
+
+### 🚩 DISTINCT Keyword
+- Removes duplicate rows from the result.
+- Returns only **unique** values.
+- Works on one or multiple columns.
+- Treats multiple `NULL` values as duplicates (keeps only one).
+
+
+---
+## ❗ Important
+
+### 🤔 If we already have the WHERE clause for filtering, why do we need the HAVING clause?
+
+- **WHERE** is used to filter rows **before** any aggregation happens.
+- **HAVING** is used to filter results **after** the data has been aggregated (i.e., after `GROUP BY`).
+
+---  
 <img width="666" height="216" alt="image" src="https://github.com/user-attachments/assets/fa433ace-ddd6-4a8d-82f9-b07c8bd42dfe" />
 
 - ---
-- -- Distinct keyword helps you to remove duplicate from your data
-- -- each value appears only once 
-- -- distict keyword acts like as a filter each value occurs only once
-- select  distinct country from customers;
--  we should not unecessarily use the distinct keyword 
--  for example as we know that primary keys are already unique and distinct 
--  so we don't have to specifically use distinct keyword  at that column
+### 🔹 DISTINCT Keyword — Key Points
+
+- The **DISTINCT** keyword removes duplicate values from the result set.
+- It ensures that **each value appears only once**.
+- Acts like a filter that returns only **unique** rows.
+
+#### Example:
+
+```sql
+SELECT DISTINCT country FROM customers;
+
 ---
 * Top (Limit ) clause or keyword is used Restrict the Number of  Rows Returned
 * In SQL, a clause is basically a part of a SQL statement that tells the database what to do.
