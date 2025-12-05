@@ -50,7 +50,7 @@
 ## Types of SQL Commands
  ### DDL commands (Data Defination language command)
  
-* Note when at the begining your database is empty and now what have done here is you have defined something new in the database and you used some commands to write create  and alter something in the data base those commands are comes under the DDL commands
+* **Note** :At the beginning, when the database is empty, we define new structures like tables using commands such as CREATE and ALTER. These commands are part of DDL (Data Definition Language), which is used to create or modify the structure of the database.
   <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/8670a833-a1e7-4bf2-9eff-e4a50d76b770" />
 
 ### DML commands (Data Manipulation language  Commands)
