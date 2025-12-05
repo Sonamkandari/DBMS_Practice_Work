@@ -68,7 +68,7 @@
 
 - Industry standard — SQL is widely used across companies and is the most common language for managing and querying relational databases.
 ---
-     <img width="787" height="516" alt="image" src="https://github.com/user-attachments/assets/ebade717-15fd-4cc7-960a-a766c0228faf" />
+<img width="787" height="516" alt="image" src="https://github.com/user-attachments/assets/ebade717-15fd-4cc7-960a-a766c0228faf" />
 ---
 
 ## Summary
@@ -139,10 +139,21 @@
 
 ```sql
 SELECT DISTINCT country FROM customers;
+```
 
 ---
-* Top (Limit ) clause or keyword is used Restrict the Number of  Rows Returned
-* In SQL, a clause is basically a part of a SQL statement that tells the database what to do.
+### 🔹 TOP / LIMIT Clause
+
+- The **TOP** (SQL Server) or **LIMIT** (MySQL, PostgreSQL) clause is used to **restrict the number of rows returned** by a query.
+- Helpful when you only want a small subset of results, such as the first 5 or 10 rows.
+
+---
+
+### 🔹 What is a SQL Clause?
+
+- A **SQL clause** is a part of an SQL statement that tells the database **what action to perform**.
+- Examples of clauses include: `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`, `LIMIT/TOP`.
+
 
 <img width="551" height="555" alt="image" src="https://github.com/user-attachments/assets/97a4f75e-8eb8-434e-b527-27ec68640212" />
 
